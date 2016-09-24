@@ -1,0 +1,12 @@
+*.pyc
+.idea
+*build/
+.tox
+*.log
+*.cache
+dist/
+*egg-info/
+*.DS_Store
+.coverage
+htmlcov
+
